@@ -1,0 +1,9 @@
+*{
+    font-family: Georgia, serif;
+}
+
+li a{
+    text-decoration: none;
+    color: rgb(37, 156, 177);
+    font-weight: 600;
+}
