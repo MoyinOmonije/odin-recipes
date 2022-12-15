@@ -1,9 +1,23 @@
 *{
     font-family: Georgia, serif;
+    background-color: rgb(117, 114, 114);
+    color: white;
 }
 
 li a{
     text-decoration: none;
-    color: rgb(37, 156, 177);
+    color: rgb(141, 222, 236);
+    font-weight: 600;  
+}
+
+h1{
     font-weight: 600;
+    text-align: center;
+    font-size: 44px;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
